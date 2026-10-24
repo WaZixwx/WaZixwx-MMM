@@ -1,0 +1,56 @@
+WaZixwx-MMM Studio v7.0.0 Sovereign UGC & DAW Provenance Edition
+Required Notice: Copyright (c) 2026 WaZixwx (https://github.com/WaZixwx/mmm). Licensed under the PolyForm Noncommercial License 1.0.0 (https://polyformproject.org/licenses/noncommercial/1.0.0).
+
+================================================================================
+1. LICENSE & NONCOMMERCIAL ANTI-ABUSE TERMS (PolyForm-Noncommercial-1.0.0)
+================================================================================
+WaZixwx-MMM Studio (including all v2.0 -> v7.0.0 Sovereign DSP engines, 16-stage
+physical acoustic remodeling algorithms, Dual-Resolution 7-Stem Alpha-Wiener
+separators, Post-48kHz OLA-Closed-Loop RVQ solvers, 24-Bit TPDF dithering,
+binary RIFF BWF/iXML DAW provenance engines, and Desktop GUI/CLI workflows) is
+licensed under the PolyForm Noncommercial License 1.0.0:
+
+  License Identifier  : PolyForm-Noncommercial-1.0.0
+  Official License URL: https://polyformproject.org/licenses/noncommercial/1.0.0
+
+Permitted Noncommercial Uses:
+  - Personal study, academic audio forensics research, experimentation, hobbyist
+    music production, and noncommercial organizations (educational, public
+    research, or charitable institutions) without any commercial application.
+
+Strictly Prohibited Without Separate Commercial Authorization:
+  - Any commercial use, commercial music distribution/monetization laundering,
+    paid SaaS / Web API / cloud wrapper hosting, paid mastering or stem-separation
+    services, commercial bundling, or unattributed commercial redistribution
+    ("free-riding").
+
+================================================================================
+2. COPYRIGHT & LEGAL LIABILITY DISCLAIMER (NO WARRANTY / NO CLEARANCE GUARANTEE)
+================================================================================
+  - No Audio Copyright Guarantee: This software is a technical acoustic DSP and
+    forensic research workstation. Processing audio through WaZixwx-MMM Studio
+    does NOT grant, transfer, or guarantee copyright ownership, licensing
+    clearance, or platform approval for any underlying musical work or recording.
+  - User Responsibility: Users are solely responsible for ensuring they hold
+    lawful rights or authorization for all audio files processed with this tool,
+    and for complying with the terms of service of any third-party platform.
+  - No Liability: As set forth in the "No Liability" clause of the PolyForm
+    Noncommercial License 1.0.0, the software is provided "AS IS", without any
+    warranty or condition, and the licensor (WaZixwx) shall not be liable for
+    any copyright disputes, account restrictions, or damages of any kind arising
+    from the use or misuse of this software.
+
+================================================================================
+3. TRIBUTE & ACKNOWLEDGMENT TO THE ORIGINAL UPSTREAM AUTHOR (geeknik)
+================================================================================
+This project stands on the shoulders of the pioneering open-source project
+"Melodic Metadata Massacrer (MMM)" originally created by geeknik (Brian Carpenter):
+
+  Original Repository : https://github.com/geeknik/mmm
+  Original Author     : geeknik (Brian Carpenter)
+  Upstream Dedication : Creative Commons Zero v1.0 Universal (CC0-1.0)
+
+We express our deepest respect, loyalty, and gratitude to geeknik for conceiving
+the original audio metadata & watermark sanitization framework and generously
+dedicating it to the public domain under CC0-1.0 (which permits downstream works
+to adopt custom licensing terms for new architectural developments).
