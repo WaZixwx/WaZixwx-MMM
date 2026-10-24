@@ -102,7 +102,7 @@ jobs:
 
       - name: Build Standalone Linux Executable
         run: |
-          pyinstaller scripts/mmm.spec --clean -y
+          pyinstaller mmm/gui.py --name WaZixwx-MMM-Studio --onedir --clean -y
 
       - name: Archive Linux Release Bundle
         run: |
